@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diriczi Zsolt-Csaba</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zsoltzsolt&label=Profile%20views&color=0e75b6&style=flat" alt="zsoltzsolt" />
   <img src="https://img.shields.io/github/followers/zsoltzsolt?label=Followers&style=social" alt="zsoltzsolt" />
 </p>
 
-<p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zsoltzsolt&show_icons=true&locale=en" alt="zsoltzsolt" />
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zsoltzsolt&" alt="zsoltzsolt" />
 </p>
 
