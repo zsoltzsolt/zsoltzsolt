@@ -15,7 +15,6 @@
 </p>
 
 - 🔭 I’m a third-year student at **UPT**
-- 🌱 I’m currently learning **Reinforcement Learning**
 - 🤖 Interested in **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: **zsoltzsolt303@gmail.com**
 
